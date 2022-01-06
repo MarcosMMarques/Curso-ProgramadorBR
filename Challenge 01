@@ -1,0 +1,49 @@
+<!DOCTYPE hmtl>
+<html>
+
+<head>
+	<title>Currículo</title>
+	<Meta charset="UTf-8">
+</head>
+
+<body>
+	<h1>Igor Oliveira</h1>
+	<p>
+		<strong>Cidade:</strong> Rio de Janeiro<br>
+		<strong>Telefone:</strong> (21)9999-9999<br>
+		<strong>Email:</strong><a href="mailto:contato@programadorbr.com" target="_top"> contato@programadorbr.com</a>
+	</p>
+	<hr>
+	<br><br>
+	<h2>Objetivo</h2>
+	<p>Chegar a 100 mil inscritos no ytb</p>
+	<br>
+	<h2>Formação</h2>
+	<p><strong>Graduação em engenharia</strong><br>
+		Universidade do Estado do Rio de Janeiro</p>
+	<p><strong>Graduação em bola de gude</strong><br>
+		Praça da esquina</p>
+	<br>
+	<h2>Experiência</h2>
+	<img src="https://cdn.falauniversidades.com.br/wp-content/uploads/2020/04/02122231/ead-1.jpg"
+		alt="Pessoa segurando diploma" width="100">
+	<strong>Produtor de Conteúdo</strong> <a href="https://www.youtube.com/channel/UCrdgeUeCll2QKmqmihIgKBQ">
+		Programador Br </a>
+	<p>Cria conteúdo sobre programação e ajudar outras pessoas a usar programação no dia a dia</p>
+	<br>
+	<img src="https://docmanagement.com.br/wp-content/uploads/2012/03/cpm-braxis.jpg" alt="Cpm Braxis" width="100">
+	<strong> Consultor Pleno - CPM Braxis </strong>
+	<p>Responsável por construir soluções de análise gerencial, para a plataforma SAP</p>
+	<br>
+	<h2>Habilidades</h2>
+	<ul>
+		<li>JavaScript</li>
+		<li>HTML</li>
+		<li>CSS</li>
+		<li>Objective-C</li>
+		<li>Swift</li>
+		<li>Java</li>
+		<li>C/C++</li>
+	</ul>
+
+</html>
