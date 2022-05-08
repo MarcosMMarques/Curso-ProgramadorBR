@@ -1,2 +1,3 @@
-# ProgramadorBR
-Projects created by Marcos Marques for ProgramadorBR class
+# CursoProgramadorBR
+
+Projetos criados para o curso ProgramadorBR
